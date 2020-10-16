@@ -1,0 +1,73 @@
+body{
+  margin:0;
+text-align: center;
+font-family: cursive;
+
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  margin-bottom: 0;
+  color: #66BFBF;
+}
+.pro{
+  font-weight: normal;
+  line-height: 2;
+}
+.desc{
+  font-family: 'Audiowide', cursive;
+  font-size: 20px;
+}
+h2{
+  color: #66BFBF;
+}
+h3{
+  color: #11999E;
+}
+
+
+.pro{
+  text-decoration: underline;
+}
+.profile-pic{
+
+  height: 30%;
+  width: 30%;
+}
+
+.top-container{
+ background-color: #e8ffff;
+ position: relative;
+ padding: 70px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 350px;
+  top: 30px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+
+.skill-row{
+width: 50%;
+text-align: left;
+margin:  auto;
+margin-top: 100px;
+margin-bottom: 100px;
+line-height: 2;
+}
+.skr1{
+  width: 25%;
+  float: left;
+  position: relative;
+  right: 20px;
+}
+
+.skr{
+  width: 25%;
+  float: right;
+  position: relative;
+  left: 20px;
+}
